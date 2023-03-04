@@ -1,0 +1,7 @@
+POST https://cards.pridezm.com/api/payments/airtelPayment/
+Content-Type: application/json
+
+{"phone_number":  "0977707846", "txn_amount":  "200"}
+
+###
+
